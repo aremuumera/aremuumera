@@ -1,4 +1,14 @@
-### Hi there 👋
+### Aremu 
+
+ Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"></a> My name is Farouk Akinsanya, a Frontend Engineer based in Lagos and I'm all about crafting cutting-edge awesome digital vibes and experiences. 
+
+
+<a href="https://github.com/aremuumera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aremuumera&theme=nord&langs_count=8" />
+</a>
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aremuumera&layout=compact&langs_count=10&theme=dark"/>
+</p>
+
 
 <!--
 **aremuumera/aremuumera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
