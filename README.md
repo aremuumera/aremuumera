@@ -1,13 +1,47 @@
-### Aremu 
+## **Aremu**
 
- Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"></a> My name is Farouk Akinsanya, a Frontend Engineer based in Lagos and I'm all about crafting cutting-edge awesome digital vibes and experiences. 
+ Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"></a> My name is Farouk Akinsanya, a Frontend Engineer based in Lagos and I'm all about crafting cutting-edge digital vibes and experiences. 
 
+##
+
+##  **Tech Stack**
+
+**Frontend Development:** `React` `Next.js`  `Javascript` `TypeScript` `Tailwind`  `Javascript` `Html` `CSS` `Javascript`
+ 
+**Version Control:** `Git` 
+
+**Backend Development:** `Node` `Rest API` `Firebase` `Express`
+
+**Testing:** `Postman` 
+
+**DBMS:** `sql`
+
+##  **Contact**
+
+I am available and open for collaboration
+
+- [Gmail](mailto:aremu.script@gmail.com)
+- [Twitter](https://twitter.com/aremu_umera)
+- [LinkedIn](https://www.linkedin.com/in/farouk-akinsanya-993563236)
+- [Website](https://aremudev-aremus-projects.vercel.app/)
+
+
+## **My Github Stats :**
 
 <a href="https://github.com/aremuumera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aremuumera&theme=nord&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aremuumera&theme=nord&show_icons=true&count_private=true&line_height=40" />
 </a>
-<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aremuumera&layout=compact&langs_count=10&theme=dark"/>
-</p>
+
+<a href="https://github.com/aremuumera">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aremuumera&theme=nord&langs_count=8" />
+</a>
+
+
+
+
+
+
+
 
 
 <!--
