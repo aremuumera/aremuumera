@@ -7,14 +7,14 @@
 ##  **Tech Stack**
 
 **Frontend Development:** `React` `Next.js`  `Javascript` `TypeScript` `Tailwind`  `Javascript` `Html` `CSS` `Javascript`
- 
-**Version Control:** `Git` 
 
 **Backend Development:** `Node` `Rest API` `Firebase` `Express`
 
 **Testing:** `Postman` 
 
 **DBMS:** `sql`
+
+**Version Control:** `Git` 
 
 ##  **Contact**
 
