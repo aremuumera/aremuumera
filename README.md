@@ -31,7 +31,7 @@ I am available and open for collaboration
   
 
 <a href="https://github.com/aremuumera">
- <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebukathedev&show_icons=true&theme=dark" />
+ <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aremuumera&show_icons=true&theme=dark" />
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aremuumera&theme=nord&langs_count=8" />
 </a>
