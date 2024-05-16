@@ -28,11 +28,11 @@ I am available and open for collaboration
 
 ## **My Github Stats :**
 
-<a href="https://github.com/aremuumera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aremuumera&theme=nord&show_icons=true&count_private=true&line_height=40" />
-</a>
+  
 
 <a href="https://github.com/aremuumera">
+ <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebukathedev&show_icons=true&theme=dark" />
+ 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aremuumera&theme=nord&langs_count=8" />
 </a>
 
