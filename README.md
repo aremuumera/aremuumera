@@ -6,13 +6,13 @@
 
 ##  **Tech Stack**
 
-**Frontend Development:** `React` `Javascript` `TypeScript` `Tailwind`  `Html` `CSS` 
+**Frontend Development:** `React` `Flutter` `Javascript` `TypeScript` `Tailwind`  `Html` `CSS` 
 
 **Backend Development:** `Node` `Rest API` `Firebase` `Express`
 
 **Testing:** `Postman` 
 
-**DBMS:** `sql`
+**DBMS:** `sql` `mongodb`
 
 **Version Control:** `Git` 
 
