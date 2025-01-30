@@ -6,7 +6,7 @@
 
 ##  **Tech Stack**
 
-**Frontend Development:** `React` `Flutter` `Javascript` `TypeScript` `Tailwind`  `Html` `CSS` 
+**Frontend Development:** `React` `Next js`  `Flutter` `Javascript` `TypeScript` `Tailwind`  `Html` `CSS` 
 
 **Backend Development:** `Node` `Rest API` `Firebase` `Express`
 
