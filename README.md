@@ -23,7 +23,7 @@ I am available and open for collaboration
 - [Gmail](mailto:aremu.script@gmail.com)
 - [Twitter](https://twitter.com/aremu_umera)
 - [LinkedIn](https://www.linkedin.com/in/farouk-akinsanya-993563236)
-- [Website](https://aremudev-aremus-projects.vercel.app/)
+- [Website](https://aremu-dev.vercel.app/)
 
 
 ## **My Github Stats :**
