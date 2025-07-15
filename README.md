@@ -6,13 +6,15 @@
 
 ##  **Tech Stack**
 
-**Frontend Development:** `React` `Next js`  `Flutter` `Javascript` `TypeScript` `Tailwind`  `Html` `CSS` 
+**Frontend Development:** `React` `Next js` `Javascript` `TypeScript` `Tailwind`  `Html` `CSS` 
 
 **Backend Development:** `Node` `Rest API` `Firebase` `Express`
 
-**Testing:** `Postman` 
+**Mobile Development:** `React-Native` `React-Native-expo` `Redux` `Zustand`
 
-**DBMS:** `sql` `mongodb`
+**Testing:** `Postman`  `jest`
+
+**DBMS:** `sql` `mongodb` `postgresql`
 
 **Version Control:** `Git` 
 
