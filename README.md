@@ -14,7 +14,7 @@
 
 **Testing:** `Postman`  `jest`
 
-**DBMS:** `sql` `mongodb` `postgresql`
+**DBMS:** `sql` `mongodb`
 
 **Version Control:** `Git` 
 
