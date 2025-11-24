@@ -8,7 +8,7 @@
 
 **Frontend Development:** `React` `Next.js` `Javascript (ES6+)` `TypeScript` `Tailwind`  `Html` `CSS` 
 
-**Backend Development:** `Node` `Rest API` `Firebase` `Express`
+**Backend Development:** `Node` `Firebase` `Express` `Supabase`
 
 **Mobile Development:** `React-Native` `React-Native-expo` 
 
