@@ -1,22 +1,26 @@
 ## **Aremu**
 
- Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"></a> My name is Farouk Akinsanya, a Product Engineer based in Lagos and I'm all about crafting cutting-edge digital vibes and experiences. 
+ Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"></a> My name is Farouk Akinsanya, a Product Engineer based in Lagos, building high-impact end to end product for startups and businesses. During my free time, I craft cutting-edge digital vibes and experiences. 
 
 ##
 
 ##  **Tech Stack**
 
-**Frontend Development:** `React` `Next js` `Javascript` `TypeScript` `Tailwind`  `Html` `CSS` 
+**Frontend Development:** `React` `Next.js` `Javascript (ES6+)` `TypeScript` `Tailwind`  `Html` `CSS` 
 
 **Backend Development:** `Node` `Rest API` `Firebase` `Express`
 
-**Mobile Development:** `React-Native` `React-Native-expo` `Redux` `Zustand`
+**Mobile Development:** `React-Native` `React-Native-expo` 
 
-**Testing:** `Postman`  `jest`
+**State Management: `React Query`, `Zustand`, `Context API`, `Redux`, `GraphQL`, `tRPC`
+
+**Build Tools & Performance: `Webpack`, `Vite`, `Performance Optimization`, `Lighthouse`
+
+**Testing & QA:** `Postman`  `jest` `React Testing Library`, `E2E Testing`, `Cross-Browser Testing`
 
 **DBMS:** `sql` `mongodb`
 
-**Version Control:** `Git` 
+**Other:** `Git` `RESTful APIs`, `Git`, `CI/CD`, `Agile Methodologies`, `Replicache`
 
 ##  **Contact**
 
