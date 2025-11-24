@@ -12,9 +12,9 @@
 
 **Mobile Development:** `React-Native` `React-Native-expo` 
 
-**State Management: `React Query`, `Zustand`, `Context API`, `Redux`, `GraphQL`, `tRPC`
+**State Management:** `React Query`, `Zustand`, `Context API`, `Redux`, `GraphQL`, `tRPC`
 
-**Build Tools & Performance: `Webpack`, `Vite`, `Performance Optimization`, `Lighthouse`
+**Build Tools & Performance:** `Webpack`, `Vite`, `Performance Optimization`, `Lighthouse`
 
 **Testing & QA:** `Postman`  `jest` `React Testing Library`, `E2E Testing`, `Cross-Browser Testing`
 
