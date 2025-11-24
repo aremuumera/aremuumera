@@ -1,6 +1,6 @@
 ## **Aremu**
 
- Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"></a> My name is Farouk Akinsanya, a Frontend Engineer based in Lagos and I'm all about crafting cutting-edge digital vibes and experiences. 
+ Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"></a> My name is Farouk Akinsanya, a Product Engineer based in Lagos and I'm all about crafting cutting-edge digital vibes and experiences. 
 
 ##
 
